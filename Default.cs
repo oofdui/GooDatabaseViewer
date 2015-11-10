@@ -27,6 +27,7 @@ namespace GooDatabaseViewer
             txtUsername.Text = System.Configuration.ConfigurationManager.AppSettings["Username"];
             txtPassword.Text = System.Configuration.ConfigurationManager.AppSettings["Password"];
             txtReload.Text = System.Configuration.ConfigurationManager.AppSettings["Reload"];
+            txtSQLQuery.Text = System.Configuration.ConfigurationManager.AppSettings["Query"];
             ttDefault.SetToolTip(pbDefault, "Count Down");
             txtSQLQuery.Select();
             #endregion
@@ -108,7 +109,7 @@ namespace GooDatabaseViewer
                 lblLastUpdate.Text = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
             }
             #endregion
-            strSQL = txtSQLQuery.Text;
+            strSQL = txtSQLQuery.Text.Replace(Environment.NewLine," ");
             dt = clsSQL.Bind(strSQL, dbType, cs);
             if (dt != null && dt.Rows.Count > 0)
             {

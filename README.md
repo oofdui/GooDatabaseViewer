@@ -1,7 +1,11 @@
 # GooDatabaseViewer
 โปรแกรมรันคิวรี่อัตโนมัติด้วยค่าที่เรากำหนดได้เอง
+
 ![alt tag](https://github.com/oofdui/GooDatabaseViewer/blob/master/SS.png)
 
+* v.1.4
+  * เพิ่มตัวดัก Error จาก Query กรณีก๊อปมาจากแหล่งที่มาอื่น ซึ่งอาจติดอักขระพิเศษมาด้วย
+  * เพิ่มตัวเก็บ Query ในไฟล์คอนฟิก
 * v.1.3
   * เพิ่ม ProgressBar แสดงตัวนับถอยหลัง
 * v.1.2

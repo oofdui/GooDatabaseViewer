@@ -7,3 +7,12 @@ C:\Users\Oofdui\Google Drive\MyProject\Application\GooDatabaseViewer\obj\Debug\G
 C:\Users\Oofdui\Google Drive\MyProject\Application\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.pdb
 C:\Users\Oofdui\Google Drive\MyProject\Application\GooDatabaseViewer\bin\Debug\GooDatabaseViewer.exe.config
 C:\Users\Oofdui\Google Drive\MyProject\Application\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.Default.resources
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\bin\Debug\GooDatabaseViewer.exe.config
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.exe
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.pdb
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\bin\Debug\GooDatabaseViewer.exe
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\bin\Debug\GooDatabaseViewer.pdb
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.csprojResolveAssemblyReference.cache
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.Default.resources
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.Properties.Resources.resources
+C:\Users\Oofdui\Dropbox\MyProject\Application\GooDatabaseViewer\GooDatabaseViewer\obj\Debug\GooDatabaseViewer.csproj.GenerateResource.Cache
